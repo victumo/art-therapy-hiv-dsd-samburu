@@ -10,11 +10,11 @@
 
 ## 📊 At a Glance
 
-| Metric | 🎨 Painting Cohort | 🏥 Standard Care 
+| Metric | 🎨 Painting Cohort | 🏥 Standard Care |
 |--------|:---:|:---:|:---:|
-| **Established in Care** | **77.8%** | 46.2% 
-| **Viral Suppression (<200)** | **89.5%** | 73.6% 
-| **Retention (visit ≤6mo)** | **100.0%** | 98.1% 
+| **Established in Care** | **77.8%** | 46.2% |
+| **Viral Suppression (<200)** | **89.5%** | 73.6% |
+| **Retention (visit ≤6mo)** | **100.0%** | 98.1% |
 
 > 167 AYP (10–24 years) | May 2023 – June 2026 | Samburu County Referral Hospital (MFL 15126)
 

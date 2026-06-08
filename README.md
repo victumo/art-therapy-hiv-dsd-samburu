@@ -164,7 +164,7 @@ This was a pilot with 26 participants. The evidence is directional, not definiti
 **Victor Cheptumo** is a Biomedical Scientist and Health Data Analyst from Samburu County, Kenya. For 7 years, he ran the viral load testing program at Samburu County Referral Hospital. When the 2025 USAID funding freeze ended his career overnight, he chose to stay — now as a **community volunteer** — because the Saturday painting initiative he founded had grown bigger than any job title. He continues to show up every last Saturday for the kids, combining his lab expertise with data analytics to build the evidence base for creative, community-led DSD models.
 
 📧 GitHub: [@victumo](https://github.com/victumo)
----
+Email: victumo@gmail.com
 
 ## 📄 License
 

@@ -1,0 +1,123 @@
+Patient_ID,Age at Reporting,Sex,Cohort,Establishment,Last VL,Last_VL_Status,Risk Categorization,Differentiated Care Model,Last Visit Date,Next Appointment Date,Months Of Prescription
+P-0138,21,M,Standard Care,Established,0,Suppressed,Low Risk,Fast Track-Facility ART distribution group,11/03/2026,16/09/2026,6
+P-0120,17,F,Standard Care,Established,0,Suppressed,Low Risk,Fast Track-Facility ART distribution group,11/03/2026,16/09/2026,6
+P-0042,16,F,Painting,Established,0,Suppressed,Low Risk,Fast Track-Facility ART distribution group,08/04/2026,05/08/2026,3
+P-0133,20,M,Standard Care,Established,0,Suppressed,High Risk,Standard Care-Facility ART distribution group,15/04/2026,14/07/2026,2
+P-0007,15,M,Standard Care,Established,0,Suppressed,High Risk,Standard Care-Facility ART distribution group,21/05/2026,19/08/2026,2
+P-0086,21,F,Standard Care,Established,0,Suppressed,High Risk,Fast Track-Facility ART distribution group,05/01/2026,02/07/2026,5
+P-0090,13,F,Standard Care,Established,0,Suppressed,Low Risk,Fast Track-Facility ART distribution group,28/11/2025,28/05/2026,6
+P-0109,17,M,Standard Care,Not Established,0,Suppressed,Medium Risk,Standard Care-Facility ART distribution group,29/05/2026,30/06/2026,1
+P-0068,22,F,Standard Care,Established,22,Suppressed,Medium Risk,Standard Care-Facility ART distribution group,29/01/2026,18/06/2026,4
+P-0082,13,M,Standard Care,Not Established,20,Suppressed,High Risk,Standard Care-Facility ART distribution group,13/04/2026,15/07/2026,3
+P-0040,19,F,Painting,Established,0,Suppressed,Low Risk,Fast Track-Facility ART distribution group,07/01/2026,15/07/2026,6
+P-0037,20,M,Standard Care,Not Established,0,Suppressed,High Risk,Standard Care-Facility ART distribution group,23/03/2026,24/06/2026,3
+P-0074,13,M,Standard Care,Not Established,0,Suppressed,Low Risk,Standard Care-Facility ART distribution group,19/05/2026,19/08/2026,3
+P-0054,14,M,Standard Care,Established,37154,Unsuppressed,High Risk,Fast Track-Facility ART distribution group,25/03/2026,25/06/2026,3
+P-0081,14,F,Painting,Established,0,Suppressed,Low Risk,Peer Led Community ART Group(PCAG),05/02/2026,16/07/2026,5
+P-0107,22,M,Standard Care,Established,0,Suppressed,High Risk,Fast Track-Facility ART distribution group,09/04/2026,16/07/2026,3
+P-0076,17,M,Standard Care,Established,0,Suppressed,Low Risk,Fast Track-Facility ART distribution group,09/04/2026,16/07/2026,3
+P-0045,18,M,Standard Care,Established,0,Suppressed,Low Risk,Standard Care-Facility ART distribution group,06/02/2026,05/08/2026,5
+P-0092,15,M,Standard Care,Not Established,29,Suppressed,High Risk,Standard Care-Facility ART distribution group,26/05/2026,20/08/2026,2
+P-0052,17,F,Standard Care,Established,4169,Unsuppressed,High Risk,Standard Care-Facility ART distribution group,06/03/2026,04/06/2026,2
+P-0055,15,M,Standard Care,Not Established,7586,Unsuppressed,High Risk,Health care worker Led facility ART group(HFAG),16/04/2026,15/07/2026,2
+P-0110,16,F,Painting,Established,0,Suppressed,Medium Risk,Fast Track-Facility ART distribution group,28/04/2026,12/08/2026,3
+P-0023,19,F,Painting,Not Established,871,Unsuppressed,Low Risk,Standard Care-Facility ART distribution group,29/04/2026,30/07/2026,3
+P-0029,24,F,Standard Care,Established,0,Suppressed,Medium Risk,Fast Track-Facility ART distribution group,17/01/2026,28/01/2027,12
+P-0015,20,M,Painting,Not Established,0,Suppressed,High Risk,Standard Care-Facility ART distribution group,30/03/2026,24/06/2026,2
+P-0091,13,F,Standard Care,Not Established,10500,Unsuppressed,High Risk,Standard Care-Facility ART distribution group,24/02/2026,07/05/2026,2
+P-0071,12,M,Painting,Established,29,Suppressed,Low Risk,Standard Care-Facility ART distribution group,10/04/2026,11/08/2026,4
+P-0001,16,M,Standard Care,Established,0,Suppressed,Low Risk,Fast Track-Facility ART distribution group,13/05/2026,12/11/2026,5
+P-0002,18,F,Standard Care,Established,0,Suppressed,Medium Risk,Fast Track-Facility ART distribution group,26/05/2026,26/11/2026,6
+P-0010,14,F,Standard Care,Not Established,406000,Unsuppressed,High Risk,Standard Care-Facility ART distribution group,08/05/2026,05/08/2026,2
+P-0089,13,M,Standard Care,Not Established,0,Suppressed,Low Risk,Standard Care-Facility ART distribution group,20/05/2026,23/06/2026,1
+P-0097,16,M,Standard Care,Established,0,Suppressed,Low Risk,Fast Track-Facility ART distribution group,19/11/2025,23/06/2026,7
+P-0126,13,F,Painting,Not Established,0,Suppressed,High Risk,Health care worker Led facility ART group(HFAG),16/04/2026,15/07/2026,2
+P-0014,16,M,Painting,Established,0,Suppressed,Medium Risk,Fast Track-Facility ART distribution group,03/03/2026,27/08/2026,5
+P-0046,18,F,Standard Care,Established,80,Suppressed,Low Risk,Fast Track-Facility ART distribution group,05/03/2026,17/09/2026,6
+P-0079,22,M,Painting,Established,26,Suppressed,Low Risk,Fast Track-Facility ART distribution group,23/04/2026,22/10/2026,5
+P-0088,13,F,Painting,Established,0,Suppressed,Low Risk,Fast Track-Facility ART distribution group,15/04/2026,14/10/2026,5
+P-0043,23,F,Painting,Established,0,Suppressed,High Risk,Fast Track-Facility ART distribution group,06/03/2026,03/09/2026,5
+P-0033,20,M,Standard Care,Not Established,425000,Unsuppressed,High Risk,Standard Care-Facility ART distribution group,25/04/2026,27/05/2026,1
+P-0101,16,M,Standard Care,Established,0,Suppressed,Low Risk,Fast Track-Facility ART distribution group,14/01/2026,15/07/2026,6
+P-0129,12,M,Standard Care,Established,1202,Unsuppressed,Medium Risk,Peer Led Community ART Group(PCAG),21/04/2026,23/10/2026,6
+P-0122,23,M,Standard Care,Established,200,Unsuppressed,Low Risk,Fast Track-Facility ART distribution group,19/01/2026,15/07/2026,5
+P-0121,17,F,Standard Care,Not Established,0,Suppressed,High Risk,Standard Care-Facility ART distribution group,05/05/2026,05/08/2026,3
+P-0038,17,M,Painting,Established,0,Suppressed,Medium Risk,Fast Track-Facility ART distribution group,13/01/2026,15/07/2026,6
+P-0034,13,M,Painting,Established,44,Suppressed,Medium Risk,Fast Track-Facility ART distribution group,21/04/2026,05/08/2026,3
+P-0080,12,F,Standard Care,Not Established,0,Suppressed,Medium Risk,Standard Care-Facility ART distribution group,28/05/2026,26/08/2026,2
+P-0098,12,F,Standard Care,Not Established,33300,Unsuppressed,High Risk,Standard Care-Facility ART distribution group,18/03/2026,15/07/2026,3
+P-0070,20,M,Standard Care,Not Established,88400,Unsuppressed,Medium Risk,Standard Care-Facility ART distribution group,25/05/2026,24/06/2026,0
+P-0141,16,F,Standard Care,Not Established,646,Unsuppressed,High Risk,Standard Care-Facility ART distribution group,25/04/2026,25/05/2026,1
+P-0022,14,M,Standard Care,Established,0,Suppressed,Low Risk,Community ART Distribution Points(CAPD),05/05/2026,03/11/2026,5
+P-0019,13,F,Painting,Established,0,Suppressed,Low Risk,Fast Track-Facility ART distribution group,20/05/2026,18/11/2026,5
+P-0057,12,F,Standard Care,Established,0,Suppressed,Low Risk,Fast Track-Facility ART distribution group,11/03/2026,09/09/2026,5
+P-0106,20,F,Standard Care,Established,0,Suppressed,High Risk,Fast Track-Facility ART distribution group,29/04/2026,19/08/2026,3
+P-0096,12,M,Standard Care,Established,0,Suppressed,Medium Risk,Fast Track-Facility ART distribution group,14/01/2026,15/07/2026,6
+P-0155,10,F,Standard Care,Not Established,189,Suppressed,Low Risk,Standard Care-Facility ART distribution group,09/04/2026,09/07/2026,3
+P-0168,11,F,Standard Care,Not Established,0,Suppressed,High Risk,Standard Care-Facility ART distribution group,12/05/2026,11/06/2026,0
+P-0085,12,M,Standard Care,Not Established,0,Suppressed,Medium Risk,Standard Care-Facility ART distribution group,08/05/2026,05/08/2026,2
+P-0059,17,M,Standard Care,Not Established,0,Suppressed,Medium Risk,Standard Care-Facility ART distribution group,20/05/2026,02/06/2026,0
+P-0064,15,M,Standard Care,Not Established,49700,Unsuppressed,Medium Risk,Standard Care-Facility ART distribution group,06/05/2026,05/08/2026,2
+P-0075,19,M,Standard Care,Established,0,Suppressed,Medium Risk,Fast Track-Facility ART distribution group,13/01/2026,05/08/2026,6
+P-0039,23,F,Standard Care,Not Established,0,Suppressed,High Risk,Standard Care-Facility ART distribution group,18/02/2026,20/05/2026,3
+P-0062,21,M,Painting,Established,0,Suppressed,Low Risk,Fast Track-Facility ART distribution group,16/03/2026,10/09/2026,5
+P-0149,10,M,Painting,Not Established,0,Suppressed,Medium Risk,Standard Care-Facility ART distribution group,15/05/2026,12/08/2026,2
+P-0020,22,M,Standard Care,Established,0,Suppressed,High Risk,Fast Track-Facility ART distribution group,13/01/2026,16/07/2026,6
+P-0035,14,F,Standard Care,Not Established,2630,Unsuppressed,Medium Risk,Standard Care-Facility ART distribution group,21/05/2026,02/06/2026,0
+P-0094,19,F,Standard Care,Not Established,3020,Unsuppressed,High Risk,Standard Care-Facility ART distribution group,08/04/2026,05/08/2026,3
+P-0102,24,F,Standard Care,Not Established,0,Suppressed,High Risk,Standard Care-Facility ART distribution group,22/05/2026,25/06/2026,1
+P-0027,12,F,Standard Care,Not Established,0,Suppressed,Low Risk,Standard Care-Facility ART distribution group,13/05/2026,11/08/2026,2
+P-0025,16,M,Standard Care,Established,1585,Unsuppressed,Medium Risk,Standard Care-Facility ART distribution group,13/05/2026,11/08/2026,2
+P-0167,10,M,Standard Care,Established,41,Suppressed,Low Risk,Fast Track-Facility ART distribution group,14/01/2026,15/07/2026,6
+P-0113,14,F,Standard Care,Established,63,Suppressed,High Risk,Fast Track-Facility ART distribution group,07/01/2026,05/08/2026,6
+P-0008,24,F,Standard Care,Established,0,Suppressed,High Risk,Fast Track-Facility ART distribution group,06/03/2026,03/09/2026,5
+P-0067,21,F,Standard Care,Not Established,0,Suppressed,Medium Risk,Standard Care-Facility ART distribution group,16/04/2026,16/07/2026,3
+P-0058,13,F,Standard Care,Established,427,Unsuppressed,Medium Risk,Fast Track-Facility ART distribution group,11/03/2026,09/09/2026,5
+P-0116,20,M,Standard Care,Established,24547,Unsuppressed,High Risk,Standard Care-Facility ART distribution group,16/04/2026,06/05/2026,0
+P-0030,22,M,Standard Care,Established,0,Suppressed,Low Risk,Fast Track-Facility ART distribution group,10/02/2026,11/08/2026,6
+P-0013,18,F,Standard Care,Not Established,0,Suppressed,High Risk,Standard Care-Facility ART distribution group,12/03/2026,10/06/2026,2
+P-0041,24,F,Standard Care,Not Established,0,Suppressed,Unknown Risk,Standard Care-Facility ART distribution group,06/05/2026,06/08/2026,3
+P-0169,11,M,Standard Care,Not Established,25,Suppressed,High Risk,Standard Care-Facility ART distribution group,20/03/2026,24/06/2026,3
+P-0173,10,F,Standard Care,Established,0,Suppressed,High Risk,Fast Track-Facility ART distribution group,19/02/2026,19/08/2026,6
+P-0061,16,F,Standard Care,Not Established,0,Suppressed,High Risk,Standard Care-Facility ART distribution group,29/05/2026,27/08/2026,2
+P-0119,22,F,Standard Care,Established,0,Suppressed,High Risk,Fast Track-Facility ART distribution group,20/04/2026,20/07/2026,3
+P-0012,22,F,Standard Care,Not Established,0,Suppressed,High Risk,Standard Care-Facility ART distribution group,27/03/2026,24/06/2026,2
+P-0077,23,F,Standard Care,Established,0,Suppressed,Medium Risk,Fast Track-Facility ART distribution group,05/05/2026,05/11/2026,6
+P-0103,15,F,Standard Care,Established,0,Suppressed,Medium Risk,Fast Track-Facility ART distribution group,21/04/2026,12/08/2026,3
+P-0100,21,F,Standard Care,Established,40,Suppressed,Medium Risk,Fast Track-Facility ART distribution group,20/05/2026,20/08/2026,3
+P-0048,21,F,Standard Care,Established,0,Suppressed,High Risk,Fast Track-Facility ART distribution group,26/03/2026,26/06/2026,3
+P-0170,23,F,Standard Care,Not Established,,Missing,High Risk,Standard Care-Facility ART distribution group,19/05/2026,11/06/2026,0
+P-0156,23,F,Standard Care,Not Established,6026,Unsuppressed,High Risk,Standard Care-Facility ART distribution group,04/03/2026,16/06/2026,3
+P-0078,14,M,Standard Care,Not Established,43,Suppressed,High Risk,Standard Care-Facility ART distribution group,04/05/2026,03/06/2026,0
+P-0177,11,M,Standard Care,Not Established,28,Suppressed,High Risk,Standard Care-Facility ART distribution group,20/02/2026,21/05/2026,3
+P-0164,15,F,Standard Care,Not Established,129,Suppressed,High Risk,Standard Care-Facility ART distribution group,23/02/2026,21/05/2026,2
+P-0087,12,F,Standard Care,Established,0,Suppressed,High Risk,Standard Care-Facility ART distribution group,13/03/2026,08/07/2026,3
+P-0114,21,F,Standard Care,Established,0,Suppressed,High Risk,Standard Care-Facility ART distribution group,07/04/2026,06/08/2026,3
+P-0134,24,F,Standard Care,Not Established,0,Suppressed,High Risk,Standard Care-Facility ART distribution group,19/02/2026,21/05/2026,3
+P-0130,17,M,Painting,Established,0,Suppressed,High Risk,Fast Track-Facility ART distribution group,25/03/2026,24/06/2026,2
+P-0171,19,F,Standard Care,Not Established,,Missing,High Risk,Standard Care-Facility ART distribution group,26/05/2026,08/06/2026,0
+P-0127,14,M,Standard Care,Established,0,Suppressed,Medium Risk,Fast Track-Facility ART distribution group,15/05/2026,12/08/2026,2
+P-0140,19,F,Standard Care,Not Established,74,Suppressed,High Risk,Standard Care-Facility ART distribution group,21/04/2026,05/05/2026,0
+P-0172,23,F,Standard Care,Not Established,,Missing,High Risk,Standard Care-Facility ART distribution group,25/05/2026,08/06/2026,0
+P-0135,23,F,Standard Care,Established,0,Suppressed,High Risk,Fast Track-Facility ART distribution group,20/05/2026,20/08/2026,3
+P-0142,24,F,Standard Care,Established,0,Suppressed,Medium Risk,Fast Track-Facility ART distribution group,09/04/2026,07/01/2027,8
+P-0174,23,F,Standard Care,Not Established,,Missing,High Risk,Standard Care-Facility ART distribution group,18/05/2026,02/06/2026,0
+P-0157,12,M,Standard Care,Not Established,32,Suppressed,High Risk,Standard Care-Facility ART distribution group,13/03/2026,08/07/2026,3
+P-0146,19,F,Standard Care,Not Established,0,Suppressed,High Risk,Standard Care-Facility ART distribution group,18/03/2026,27/05/2026,2
+P-0147,23,F,Standard Care,Not Established,4417,Unsuppressed,High Risk,Standard Care-Facility ART distribution group,23/04/2026,23/07/2026,3
+P-0148,13,F,Standard Care,Not Established,0,Suppressed,High Risk,Standard Care-Facility ART distribution group,26/05/2026,26/08/2026,3
+P-0178,22,F,Standard Care,Established,,Missing,Medium Risk,Fast Track-Facility ART distribution group,13/04/2026,13/07/2026,3
+P-0159,24,F,Standard Care,Not Established,0,Suppressed,High Risk,Standard Care-Facility ART distribution group,29/05/2026,29/06/2026,1
+P-0165,24,F,Standard Care,Not Established,,Missing,Unknown Risk,Standard Care-Facility ART distribution group,25/05/2026,25/06/2026,1
+P-0175,15,M,Standard Care,Established,0,Suppressed,Medium Risk,Fast Track-Facility ART distribution group,22/04/2026,12/08/2026,3
+P-0166,24,F,Standard Care,Established,83,Suppressed,Medium Risk,Standard Care-Facility ART distribution group,16/04/2026,16/07/2026,3
+P-0161,19,F,Standard Care,Not Established,0,Suppressed,High Risk,Standard Care-Facility ART distribution group,27/02/2026,27/08/2026,6
+P-0153,23,F,Standard Care,Not Established,903000,Unsuppressed,High Risk,Standard Care-Facility ART distribution group,04/05/2026,12/06/2026,1
+P-0158,20,F,Standard Care,Not Established,24,Suppressed,High Risk,Standard Care-Facility ART distribution group,22/05/2026,19/06/2026,0
+P-0152,22,F,Standard Care,Not Established,55200,Unsuppressed,High Risk,Standard Care-Facility ART distribution group,29/04/2026,31/05/2026,1
+P-0151,20,F,Standard Care,Not Established,163000,Unsuppressed,High Risk,Standard Care-Facility ART distribution group,30/04/2026,30/06/2026,2
+P-0160,21,F,Standard Care,Not Established,219,Unsuppressed,High Risk,Standard Care-Facility ART distribution group,06/05/2026,24/06/2026,1
+P-0163,17,F,Standard Care,Not Established,324,Unsuppressed,High Risk,Standard Care-Facility ART distribution group,29/05/2026,24/06/2026,0
+P-0162,19,F,Standard Care,Not Established,12400,Unsuppressed,High Risk,Standard Care-Facility ART distribution group,21/05/2026,22/06/2026,1
+P-0179,23,F,Standard Care,Established,,Missing,High Risk,Standard Care-Facility ART distribution group,08/05/2026,04/06/2026,0
+P-0176,22,F,Standard Care,Not Established,,Missing,High Risk,Standard Care-Facility ART distribution group,19/05/2026,18/06/2026,0

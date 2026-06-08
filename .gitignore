@@ -1,0 +1,24 @@
+# ============================================================
+# PRIVACY & SECURITY: Never commit raw patient data
+# ============================================================
+# Raw data contains PII: names, CCC numbers, DOB, facility codes
+data/raw/
+
+# Temporary/locked Excel files
+~$*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code workspace settings (optional)
+# .vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

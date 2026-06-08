@@ -1,0 +1,417 @@
+Patient_ID,Date Collected,Result,VL_Numeric,Suppression,VL_Detail,Cohort,Period,Age,Gender,Regimen,Justification
+P-0001,2023-04-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),13.0,Male,TDF+3TC+DTG,Routine VL
+P-0002,2023-04-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),15.0,Female,TDF+3TC+DTG,Routine VL
+P-0003,2023-05-03,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),24.0,Female,TDF+3TC+DTG,Routine VL
+P-0004,2023-05-09,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),18.0,Female,TDF+3TC+DTG,Routine VL
+P-0005,2023-06-06,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),19.0,Male,TDF+3TC+DTG,Routine VL
+P-0006,2023-06-06,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),12.0,Male,ABC+3TC+DTG,Routine VL
+P-0007,2023-05-27,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),12.0,Male,TDF+3TC+DTG,Routine VL
+P-0008,2023-05-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),21.0,Female,TDF+3TC+DTG,Routine VL
+P-0009,2023-05-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),21.0,Female,TDF+3TC+DTG,Routine VL
+P-0010,2023-05-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),11.0,Female,TDF+3TC+DTG,Routine VL
+P-0011,2023-05-24,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),23.0,Female,TDF+3TC+DTG,Routine VL
+P-0012,2023-05-24,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),19.0,Female,TDF+3TC+DTG,Routine VL
+P-0013,2023-05-26,94,94.0,Suppressed,Low Level Viremia (50-199),Standard Care,Pre (May 2023-Apr 2024),15.0,Female,TDF+3TC+DTG,Routine VL
+P-0014,2023-06-14,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Pre (May 2023-Apr 2024),13.0,Male,TDF+3TC+DTG,Routine VL
+P-0015,2023-06-14,2908,2908.0,Unsuppressed,Treatment Failure (1000+),Painting,Pre (May 2023-Apr 2024),17.0,Male,TDF+3TC+DTG,Routine VL
+P-0016,2023-06-20,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),24.0,Male,TDF+3TC+DTG,Routine VL
+P-0017,2023-06-20,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),23.0,Female,TDF+3TC+DTG,Routine VL
+P-0018,2023-06-19,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),24.0,Female,TDF+3TC+DTG,Routine VL
+P-0019,2023-06-20,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Pre (May 2023-Apr 2024),10.0,Female,TDF+3TC+DTG,Routine VL
+P-0020,2023-06-22,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),20.0,Male,TDF+3TC+DTG,Routine VL
+P-0021,2023-06-24,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),22.0,Female,TDF+3TC+DTG,Routine VL
+P-0022,2023-06-24,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),11.0,Male,TDF+3TC+DTG,Routine VL
+P-0023,2023-06-27,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Pre (May 2023-Apr 2024),16.0,Female,TDF+3TC+DTG,Routine VL
+P-0024,2023-06-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),24.0,Female,TDF+3TC+DTG,Routine VL
+P-0025,2023-07-05,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),14.0,Male,TDF+3TC+DTG,Routine VL
+P-0026,2023-07-05,1561,1561.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Pre (May 2023-Apr 2024),17.0,Female,TDF+3TC+DTG,Routine VL
+P-0027,2023-07-05,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),10.0,Female,TDF+3TC+DTG,Routine VL
+P-0002,2023-07-20,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),16.0,Female,TDF+3TC+DTG,Routine VL
+P-0028,2023-07-12,49,49.0,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),24.0,Female,TDF+3TC+DTG,Routine VL
+P-0029,2023-07-31,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),22.0,Female,TDF+3TC+DTG,Routine VL
+P-0030,2023-08-01,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),20.0,Male,TDF+3TC+DTG,Routine VL
+P-0031,2023-07-28,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),23.0,Female,TDF+3TC+DTG,Routine VL
+P-0032,2023-07-24,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),20.0,Female,TDF+3TC+DTG,Routine VL
+P-0033,2023-07-26,69,69.0,Suppressed,Low Level Viremia (50-199),Standard Care,Pre (May 2023-Apr 2024),17.0,Male,TDF+3TC+DTG,Routine VL
+P-0034,2023-07-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Pre (May 2023-Apr 2024),11.0,Male,TDF+3TC+DTG,Confirmation of Treatment Failure (Repeat VL)
+P-0035,2023-08-02,2680,2680.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Pre (May 2023-Apr 2024),12.0,Female,ABC+3TC+DTG,Routine VL
+P-0036,2023-08-22,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),13.0,Male,ABC+3TC+DTG,Routine VL
+P-0037,2023-08-23,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),18.0,Male,Other,Routine VL
+P-0038,2023-08-23,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Pre (May 2023-Apr 2024),14.0,Male,TDF+3TC+DTG,Routine VL
+P-0039,2023-08-21,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),20.0,Female,TDF+3TC+DTG,Routine VL
+P-0040,2023-08-19,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Pre (May 2023-Apr 2024),17.0,Female,TDF+3TC+DTG,Routine VL
+P-0041,2023-08-23,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),22.0,Female,TDF+3TC+DTG,Routine VL
+P-0042,2023-08-19,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Pre (May 2023-Apr 2024),14.0,Female,Other,Routine VL
+P-0043,2023-08-21,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Pre (May 2023-Apr 2024),20.0,Female,TDF+3TC+DTG,Routine VL
+P-0044,2023-08-19,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),23.0,Male,TDF+3TC+DTG,Routine VL
+P-0045,2023-08-19,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),15.0,Male,Other,Routine VL
+P-0046,2023-08-23,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),16.0,Female,Other,Routine VL
+P-0047,2023-08-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),24.0,Female,TDF+3TC+DTG,Routine VL
+P-0048,2023-08-14,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),19.0,Female,TDF+3TC+DTG,Routine VL
+P-0049,2023-08-10,2106,2106.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Pre (May 2023-Apr 2024),20.0,Female,TDF+3TC+DTG,Routine VL
+P-0050,2023-08-14,15965,15965.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Pre (May 2023-Apr 2024),24.0,Female,TDF+3TC+DTG,Routine VL
+P-0051,2023-08-10,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),19.0,Male,TDF+3TC+DTG,Routine VL
+P-0052,2023-08-16,4399,4399.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Pre (May 2023-Apr 2024),15.0,Male,Other,Routine VL
+P-0053,2023-08-10,49,49.0,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),23.0,Female,TDF+3TC+DTG,Routine VL
+P-0054,2023-08-14,8969,8969.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Pre (May 2023-Apr 2024),14.0,Male,TDF+3TC+DTG,Routine VL
+P-0055,2023-08-15,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),13.0,Male,TDF+3TC+DTG,Routine VL
+P-0056,2023-09-07,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),23.0,Female,TDF+3TC+DTG,Routine VL
+P-0057,2023-09-07,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),10.0,Female,ABC+3TC+DTG,Routine VL
+P-0058,2023-09-07,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),11.0,Female,ABC+3TC+DTG,Routine VL
+P-0059,2023-09-11,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),15.0,Male,ABC+3TC+DTG,Routine VL
+P-0060,2023-08-25,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),13.0,Male,ABC+3TC+DTG,Routine VL
+P-0061,2023-09-19,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),14.0,Female,Other,Routine VL
+P-0062,2023-09-20,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Pre (May 2023-Apr 2024),18.0,Male,TDF+3TC+DTG,Routine VL
+P-0063,2023-09-13,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),19.0,Male,TDF+3TC+DTG,Routine VL
+P-0064,2023-09-18,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),13.0,Male,TDF+3TC+DTG,Routine VL
+P-0011,2023-10-23,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),24.0,Female,TDF+3TC+DTG,Routine VL
+P-0065,2023-10-23,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),18.0,Male,Other,Routine VL
+P-0066,2023-10-23,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),18.0,Female,TDF+3TC+DTG,Routine VL
+P-0021,2023-10-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),23.0,Female,TDF+3TC+DTG,Routine VL
+P-0067,2023-10-25,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),19.0,Female,TDF+3TC+DTG,Routine VL
+P-0068,2023-10-25,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),19.0,Female,TDF+3TC+DTG,Routine VL
+P-0015,2023-10-27,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Pre (May 2023-Apr 2024),18.0,Male,TDF+3TC+DTG,Routine VL
+P-0069,2023-10-25,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),22.0,Male,TDF+3TC+DTG,Routine VL
+P-0070,2023-10-25,3770,3770.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Pre (May 2023-Apr 2024),18.0,Male,TDF+3TC+DTG,Routine VL
+P-0071,2023-10-24,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Pre (May 2023-Apr 2024),10.0,Male,ABC+3TC+DTG,Routine VL
+P-0032,2023-10-30,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),20.0,Female,TDF+3TC+DTG,Routine VL
+P-0072,2023-10-31,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),14.0,Female,Other,Routine VL
+P-0073,2023-11-03,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),23.0,Male,TDF+3TC+DTG,Routine VL
+P-0074,2023-11-07,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),10.0,Male,TDF+3TC+DTG,Routine VL
+P-0001,2023-11-07,23811,23811.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Pre (May 2023-Apr 2024),14.0,Male,ABC+3TC+DTG,Routine VL
+P-0035,2023-11-15,12040,12040.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Pre (May 2023-Apr 2024),12.0,Female,ABC+3TC+DTG,Routine VL
+P-0075,2023-11-15,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),17.0,Male,TDF+3TC+DTG,Routine VL
+P-0076,2023-11-15,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),14.0,Male,Other,Routine VL
+P-0077,2023-11-14,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),21.0,Female,TDF+3TC+DTG,Routine VL
+P-0024,2023-11-14,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),24.0,Female,TDF+3TC+DTG,Routine VL
+P-0078,2023-11-27,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),11.0,Male,ABC+3TC+DTG,Routine VL
+P-0033,2024-01-30,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),18.0,Male,TDF+3TC+DTG,Routine VL
+P-0079,2024-01-29,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Pre (May 2023-Apr 2024),20.0,Male,TDF+3TC+DTG,Routine VL
+P-0035,2024-01-29,5459,5459.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Pre (May 2023-Apr 2024),12.0,Female,ABC+3TC+DTG,Routine VL
+P-0080,2024-01-31,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),10.0,Female,ABC+3TC+DTG,Routine VL
+P-0081,2024-01-31,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Pre (May 2023-Apr 2024),12.0,Female,ABC+3TC+DTG,Routine VL
+P-0082,2024-01-31,93,93.0,Suppressed,Low Level Viremia (50-199),Standard Care,Pre (May 2023-Apr 2024),11.0,Male,ABC+3TC+DTG,Routine VL
+P-0014,2024-02-05,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Pre (May 2023-Apr 2024),14.0,Male,ABC+3TC+DTG,Routine VL
+P-0083,2024-02-05,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),16.0,Female,TDF+3TC+DTG,Routine VL
+P-0084,2024-02-05,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),23.0,Female,TDF+3TC+DTG,Routine VL
+P-0010,2024-02-05,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),12.0,Female,ABC+3TC+DTG,Routine VL
+P-0031,2024-02-05,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),23.0,Female,TDF+3TC+DTG,Routine VL
+P-0085,2024-02-07,45,45.0,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),10.0,Male,ABC+3TC+DTG,Routine VL
+P-0086,2024-02-07,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),19.0,Female,TDF+3TC+DTG,Routine VL
+P-0087,2024-02-13,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),10.0,Female,ABC+3TC+DTG,Routine VL
+P-0088,2024-02-12,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Pre (May 2023-Apr 2024),10.0,Female,ABC+3TC+DTG,Routine VL
+P-0045,2024-02-22,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),16.0,Male,Other,Routine VL
+P-0089,2024-02-23,40,40.0,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),11.0,Male,ABC+3TC+DTG,Routine VL
+P-0090,2024-02-27,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),11.0,Female,ABC+3TC+DTG,Routine VL
+P-0091,2024-02-27,93,93.0,Suppressed,Low Level Viremia (50-199),Standard Care,Pre (May 2023-Apr 2024),11.0,Female,ABC+3TC+DTG,Routine VL
+P-0001,2024-02-27,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),14.0,Male,Other,Routine VL
+P-0092,2024-02-27,14454,14454.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Pre (May 2023-Apr 2024),13.0,Male,ABC+3TC+DTG,Routine VL
+P-0022,2024-02-27,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),11.0,Male,TDF+3TC+DTG,Routine VL
+P-0053,2024-03-07,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),23.0,Female,TDF+3TC+DTG,Routine VL
+P-0093,2024-03-07,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),22.0,Female,TDF+3TC+DTG,Routine VL
+P-0046,2024-03-07,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),16.0,Female,Other,Routine VL
+P-0056,2024-03-07,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),23.0,Female,TDF+3TC+DTG,Routine VL
+P-0040,2024-03-07,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Pre (May 2023-Apr 2024),17.0,Female,TDF+3TC+DTG,Routine VL
+P-0094,2024-03-07,630957,630957.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Pre (May 2023-Apr 2024),17.0,Female,TDF+3TC+DTG,Routine VL
+P-0095,2024-03-07,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),24.0,Male,TDF+3TC+DTG,Routine VL
+P-0059,2024-03-19,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),15.0,Male,TDF+3TC+DTG,Routine VL
+P-0062,2024-03-20,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Pre (May 2023-Apr 2024),19.0,Male,TDF+3TC+DTG,Routine VL
+P-0096,2024-03-14,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),10.0,Male,ABC+3TC+DTG,Routine VL
+P-0097,2024-03-14,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),14.0,Male,TDF+3TC+DTG,Routine VL
+P-0008,2024-03-14,4786,4786.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Pre (May 2023-Apr 2024),22.0,Female,TDF+3TC+DTG,Routine VL
+P-0098,2024-03-14,20,20.0,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),10.0,Female,ABC+3TC+DTG,Routine VL
+P-0063,2024-03-14,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),19.0,Male,TDF+3TC+DTG,Routine VL
+P-0060,2024-03-14,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),13.0,Male,ABC+3TC+DTG,Routine VL
+P-0099,2024-03-14,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),14.0,Female,Other,Routine VL
+P-0100,2024-03-14,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),19.0,Female,TDF+3TC+DTG,Routine VL
+P-0101,2024-03-14,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),14.0,Male,Other,Routine VL
+P-0004,2024-03-26,29,29.0,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),19.0,Female,TDF+3TC+DTG,Routine VL
+P-0065,2024-03-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),18.0,Male,Other,Routine VL
+P-0102,2024-03-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),22.0,Female,TDF+3TC+DTG,Routine VL
+P-0103,2024-03-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),13.0,Female,Other,Routine VL
+P-0104,2024-03-26,78,78.0,Suppressed,Low Level Viremia (50-199),Standard Care,Pre (May 2023-Apr 2024),11.0,Male,ABC+3TC+DTG,Routine VL
+P-0105,2024-04-10,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),24.0,Female,TDF+3TC+DTG,Routine VL
+P-0070,2024-04-10,2884,2884.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Pre (May 2023-Apr 2024),18.0,Male,TDF+3TC+DTG,Confirmation of Treatment Failure (Repeat VL)
+P-0023,2024-04-10,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Pre (May 2023-Apr 2024),17.0,Female,TDF+3TC+DTG,Routine VL
+P-0064,2024-04-10,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),13.0,Male,TDF+3TC+DTG,Routine VL
+P-0106,2024-04-10,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),17.0,Female,Other,Routine VL
+P-0042,2024-04-10,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Pre (May 2023-Apr 2024),14.0,Female,Other,Routine VL
+P-0019,2024-04-10,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Pre (May 2023-Apr 2024),11.0,Female,Other,Routine VL
+P-0048,2024-04-10,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Pre (May 2023-Apr 2024),19.0,Female,TDF+3TC+DTG,Baseline
+P-0043,2024-04-10,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Pre (May 2023-Apr 2024),21.0,Female,TDF+3TC+DTG,Routine VL
+P-0013,2024-04-10,79,79.0,Suppressed,Low Level Viremia (50-199),Standard Care,Pre (May 2023-Apr 2024),16.0,Female,Other,Routine VL
+P-0034,2024-04-10,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Pre (May 2023-Apr 2024),11.0,Male,ABC+3TC+DTG,Routine VL
+P-0107,2024-05-15,5595,5595.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),20.0,Male,TDF+3TC+DTG,Routine VL
+P-0108,2024-05-14,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),14.0,Male,TDF+3TC+DTG,Routine VL
+P-0057,2024-05-15,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),10.0,Female,ABC+3TC+DTG,Routine VL
+P-0058,2024-05-15,33,33.0,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),11.0,Female,ABC+3TC+DTG,Routine VL
+P-0109,2024-05-14,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),15.0,Male,TDF+3TC+DTG,Routine VL
+P-0097,2024-05-14,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),14.0,Male,TDF+3TC+DTG,Routine VL
+P-0037,2024-05-14,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),18.0,Male,Other,Routine VL
+P-0015,2024-05-15,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),18.0,Male,Other,Routine VL
+P-0110,2024-05-15,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),14.0,Male,Other,Routine VL
+P-0076,2024-05-15,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),15.0,Male,Other,Routine VL
+P-0071,2024-05-14,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),10.0,Male,ABC+3TC+DTG,Routine VL
+P-0077,2024-05-14,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),21.0,Female,TDF+3TC+DTG,Routine VL
+P-0038,2024-05-14,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),15.0,Male,TDF+3TC+DTG,Routine VL
+P-0111,2024-05-14,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),17.0,Female,TDF+3TC+DTG,Routine VL
+P-0007,2024-05-14,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),13.0,Male,ABC+3TC+DTG,Routine VL
+P-0074,2024-05-14,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),11.0,Male,Other,Routine VL
+P-0072,2024-05-14,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),15.0,Female,Other,Routine VL
+P-0112,2024-05-14,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),10.0,Male,ABC+3TC+DTG,Routine VL
+P-0113,2024-05-14,815,815.0,Unsuppressed,High Level Viremia (200-999),Standard Care,Post (May 2024-Apr 2026),12.0,Female,Other,Routine VL
+P-0114,2024-05-16,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),19.0,Female,TDF+3TC+DTG,Routine VL
+P-0115,2024-05-22,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),22.0,Female,TDF+3TC+DTG,Routine VL
+P-0024,2024-05-22,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),24.0,Female,TDF+3TC+DTG,Routine VL
+P-0075,2024-05-23,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),17.0,Male,TDF+3TC+DTG,Routine VL
+P-0009,2024-05-23,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),22.0,Female,TDF+3TC+DTG,Routine VL
+P-0111,2024-05-23,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),17.0,Female,TDF+3TC+DTG,Routine VL
+P-0021,2024-05-30,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),23.0,Female,TDF+3TC+DTG,Routine VL
+P-0011,2024-05-30,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),24.0,Female,TDF+3TC+DTG,Routine VL
+P-0020,2024-06-06,813,813.0,Unsuppressed,High Level Viremia (200-999),Standard Care,Post (May 2024-Apr 2026),20.0,Male,TDF+3TC+DTG,Routine VL
+P-0094,2024-06-07,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),17.0,Female,TDF+3TC+DTG,Confirmation of Treatment Failure (Repeat VL)
+P-0017,2024-06-10,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),23.0,Female,TDF+3TC+DTG,Routine VL
+P-0116,2024-06-12,24547,24547.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),17.0,Male,TDF+3TC+DTG,Routine VL
+P-0008,2024-06-17,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),23.0,Female,TDF+3TC+DTG,Confirmation of Treatment Failure (Repeat VL)
+P-0117,2024-07-04,22387,22387.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),24.0,Female,TDF+3TC+DTG,Routine VL
+P-0118,2024-07-04,66,66.0,Suppressed,Low Level Viremia (50-199),Standard Care,Post (May 2024-Apr 2026),23.0,Female,TDF+3TC+DTG,Routine VL
+P-0082,2024-07-05,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),11.0,Male,ABC+3TC+DTG,Routine VL
+P-0052,2024-07-05,1380,1380.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),15.0,Male,Other,Routine VL
+P-0002,2024-07-08,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),16.0,Female,Other,Routine VL
+P-0119,2024-07-08,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),20.0,Female,TDF+3TC+DTG,Routine VL
+P-0055,2024-07-08,7586,7586.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),14.0,Male,ABC+3TC+DTG,Routine VL
+P-0091,2024-07-08,275,275.0,Unsuppressed,High Level Viremia (200-999),Standard Care,Post (May 2024-Apr 2026),12.0,Female,ABC+3TC+DTG,Routine VL
+P-0092,2024-07-08,95,95.0,Suppressed,Low Level Viremia (50-199),Standard Care,Post (May 2024-Apr 2026),13.0,Male,ABC+3TC+DTG,Routine VL
+P-0120,2024-07-17,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),12.0,Female,Other,Routine VL
+P-0048,2024-07-17,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),20.0,Female,TDF+3TC+DTG,Routine VL
+P-0035,2024-07-17,2630,2630.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),13.0,Female,ABC+3TC+DTG,Routine VL
+P-0121,2024-07-17,5888,5888.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),15.0,Female,TDF+3TC+DTG,Routine VL
+P-0122,2024-07-17,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),22.0,Male,TDF+3TC+DTG,Routine VL
+P-0123,2024-07-17,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),24.0,Female,TDF+3TC+DTG,Routine VL
+P-0124,2024-07-17,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),24.0,Male,TDF+3TC+DTG,Routine VL
+P-0030,2024-07-18,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),21.0,Male,TDF+3TC+DTG,Routine VL
+P-0022,2024-07-24,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),12.0,Male,TDF+3TC+DTG,Routine VL
+P-0081,2024-08-12,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),13.0,Female,Other,Routine VL
+P-0086,2024-08-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),20.0,Female,TDF+3TC+DTG,Routine VL
+P-0125,2024-08-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),15.0,Female,Other,Routine VL
+P-0088,2024-08-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),11.0,Female,Other,Routine VL
+P-0071,2024-08-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),10.0,Male,ABC+3TC+DTG,Routine VL
+P-0110,2024-08-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),14.0,Male,Other,Routine VL
+P-0033,2024-08-26,97724,97724.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),18.0,Male,TDF+3TC+DTG,Routine VL
+P-0126,2024-08-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),12.0,Female,Other,Routine VL
+P-0064,2024-08-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),14.0,Male,TDF+3TC+DTG,Routine VL
+P-0043,2024-08-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),21.0,Female,TDF+3TC+DTG,Routine VL
+P-0040,2024-08-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),18.0,Female,TDF+3TC+DTG,Routine VL
+P-0019,2024-08-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),11.0,Female,Other,Routine VL
+P-0104,2024-08-26,186209,186209.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),12.0,Male,ABC+3TC+DTG,Routine VL
+P-0062,2024-08-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),19.0,Male,TDF+3TC+DTG,Routine VL
+P-0034,2024-08-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),12.0,Male,ABC+3TC+DTG,Routine VL
+P-0042,2024-08-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),15.0,Female,Other,Routine VL
+P-0079,2024-08-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),21.0,Male,TDF+3TC+DTG,Routine VL
+P-0029,2024-08-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),23.0,Female,TDF+3TC+DTG,Routine VL
+P-0075,2024-08-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),18.0,Male,TDF+3TC+DTG,Routine VL
+P-0100,2024-08-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),20.0,Female,TDF+3TC+DTG,Routine VL
+P-0014,2024-08-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),15.0,Male,ABC+3TC+DTG,Routine VL
+P-0015,2024-08-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),19.0,Male,Other,Routine VL
+P-0023,2024-08-26,871,871.0,Unsuppressed,High Level Viremia (200-999),Painting,Post (May 2024-Apr 2026),17.0,Female,TDF+3TC+DTG,Routine VL
+P-0080,2024-08-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),11.0,Female,ABC+3TC+DTG,Routine VL
+P-0081,2024-08-26,20,20.0,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),13.0,Female,Other,Routine VL
+P-0127,2024-09-04,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),12.0,Male,Other,Routine VL
+P-0128,2024-09-04,23988,23988.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),16.0,Female,Other,Routine VL
+P-0070,2024-09-04,8710,8710.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),19.0,Male,TDF+3TC+DTG,Confirmation of Treatment Failure (Repeat VL)
+P-0129,2024-09-04,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),10.0,Male,ABC+3TC+DTG,Routine VL
+P-0021,2024-09-30,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),23.0,Female,TDF+3TC+DTG,Routine VL
+P-0099,2024-09-30,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),15.0,Female,Other,Routine VL
+P-0039,2024-10-01,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),21.0,Female,TDF+3TC+DTG,Routine VL
+P-0107,2024-10-09,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),21.0,Male,TDF+3TC+DTG,Routine VL
+P-0084,2024-10-09,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),24.0,Female,TDF+3TC+DTG,Routine VL
+P-0096,2024-10-09,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),11.0,Male,ABC+3TC+DTG,Routine VL
+P-0130,2024-10-09,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),16.0,Male,Other,Routine VL
+P-0025,2024-10-09,6761,6761.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),15.0,Male,Other,Routine VL
+P-0027,2024-10-09,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),11.0,Female,ABC+3TC+DTG,Routine VL
+P-0101,2024-10-09,646,646.0,Unsuppressed,High Level Viremia (200-999),Standard Care,Post (May 2024-Apr 2026),15.0,Male,Other,Routine VL
+P-0031,2024-10-17,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),24.0,Female,TDF+3TC+DTG,Routine VL
+P-0119,2024-10-17,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),20.0,Female,TDF+3TC+DTG,Routine VL
+P-0131,2024-10-17,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),13.0,Female,ABC+3TC+DTG,Routine VL
+P-0132,2024-10-17,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),10.0,Female,ABC+3TC+DTG,Routine VL
+P-0115,2024-10-30,81283,81283.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),23.0,Female,TDF+3TC+DTG,Routine VL
+P-0068,2024-10-30,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),20.0,Female,TDF+3TC+DTG,Routine VL
+P-0113,2024-10-30,89,89.0,Suppressed,Low Level Viremia (50-199),Standard Care,Post (May 2024-Apr 2026),13.0,Female,Other,Confirmation of Treatment Failure (Repeat VL)
+P-0013,2024-10-30,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),17.0,Female,Other,Routine VL
+P-0133,2024-10-30,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),19.0,Male,TDF+3TC+DTG,Routine VL
+P-0098,2024-11-11,6026,6026.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),10.0,Female,Other,Routine VL
+P-0134,2024-11-11,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),22.0,Female,TDF+3TC+DTG,Routine VL
+P-0135,2024-11-11,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),22.0,Female,TDF+3TC+DTG,Routine VL
+P-0053,2024-11-11,18621,18621.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),24.0,Female,TDF+3TC+DTG,Routine VL
+P-0102,2024-11-11,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),23.0,Female,TDF+3TC+DTG,Routine VL
+P-0100,2024-11-20,21,21.0,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),20.0,Female,TDF+3TC+DTG,Routine VL
+P-0020,2024-11-20,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),21.0,Male,TDF+3TC+DTG,Routine VL
+P-0136,2024-11-20,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),16.0,Female,TDF+3TC+DTG,Routine VL
+P-0073,2024-11-20,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),24.0,Male,TDF+3TC+DTG,Routine VL
+P-0045,2024-11-20,49,49.0,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),17.0,Male,Other,Routine VL
+P-0077,2024-11-20,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),22.0,Female,TDF+3TC+DTG,Routine VL
+P-0111,2024-12-10,27,27.0,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),18.0,Female,TDF+3TC+DTG,Routine VL
+P-0103,2024-12-10,851,851.0,Unsuppressed,High Level Viremia (200-999),Standard Care,Post (May 2024-Apr 2026),13.0,Female,Other,Routine VL
+P-0091,2024-12-10,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),12.0,Female,ABC+3TC+DTG,Routine VL
+P-0069,2024-12-10,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),23.0,Male,TDF+3TC+DTG,Routine VL
+P-0137,2024-12-10,355,355.0,Unsuppressed,High Level Viremia (200-999),Standard Care,Post (May 2024-Apr 2026),24.0,Male,TDF+3TC+DTG,Routine VL
+P-0089,2024-12-10,100,100.0,Suppressed,Low Level Viremia (50-199),Standard Care,Post (May 2024-Apr 2026),12.0,Male,ABC+3TC+DTG,Routine VL
+P-0052,2024-12-10,4169,4169.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),16.0,Male,Other,Confirmation of Treatment Failure (Repeat VL)
+P-0085,2024-12-10,25,25.0,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),11.0,Male,Other,Routine VL
+P-0078,2024-12-10,43,43.0,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),12.0,Male,ABC+3TC+DTG,Routine VL
+P-0046,2024-12-19,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),17.0,Female,Other,Routine VL
+P-0138,2024-12-19,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),20.0,Female,TDF+3TC+DTG,Routine VL
+P-0139,2024-12-19,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),19.0,Female,TDF+3TC+DTG,Routine VL
+P-0057,2024-12-19,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),11.0,Female,ABC+3TC+DTG,Routine VL
+P-0072,2024-12-19,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),15.0,Female,Other,Routine VL
+P-0038,2025-01-09,29,29.0,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),16.0,Male,TDF+3TC+DTG,Routine VL
+P-0029,2025-01-09,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),23.0,Female,TDF+3TC+DTG,Routine VL
+P-0004,2025-01-09,269,269.0,Unsuppressed,High Level Viremia (200-999),Standard Care,Post (May 2024-Apr 2026),20.0,Female,TDF+3TC+DTG,Routine VL
+P-0121,2025-01-09,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),16.0,Female,TDF+3TC+DTG,Confirmation of Treatment Failure (Repeat VL)
+P-0084,2025-01-09,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),24.0,Female,TDF+3TC+DTG,Routine VL
+P-0114,2025-01-23,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),20.0,Female,TDF+3TC+DTG,Routine VL
+P-0070,2025-01-21,13490,13490.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),19.0,Male,TDF+3TC+DTG,Routine VL
+P-0140,2025-01-23,74,74.0,Suppressed,Low Level Viremia (50-199),Standard Care,Post (May 2024-Apr 2026),18.0,Female,TDF+3TC+DTG,Routine VL
+P-0125,2025-01-23,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),15.0,Female,Other,Routine VL
+P-0109,2025-01-23,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),16.0,Male,TDF+3TC+DTG,Routine VL
+P-0141,2025-01-23,646,646.0,Unsuppressed,High Level Viremia (200-999),Standard Care,Post (May 2024-Apr 2026),15.0,Female,Other,Routine VL
+P-0041,2025-01-23,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),23.0,Female,TDF+3TC+DTG,Routine VL
+P-0097,2025-04-02,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),15.0,Male,TDF+3TC+DTG,Routine VL
+P-0058,2025-04-02,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),12.0,Female,ABC+3TC+DTG,Routine VL
+P-0019,2025-04-16,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),12.0,Female,Other,Routine VL
+P-0096,2025-04-16,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),11.0,Male,ABC+3TC+DTG,Routine VL
+P-0142,2025-04-16,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),23.0,Female,TDF+3TC+DTG,Routine VL
+P-0103,2025-04-16,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),14.0,Female,Other,Routine VL
+P-0042,2025-04-16,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),15.0,Female,Other,Routine VL
+P-0081,2025-04-16,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),13.0,Female,Other,Routine VL
+P-0002,2025-04-16,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),17.0,Female,Other,Routine VL
+P-0112,2025-04-16,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),11.0,Male,ABC+3TC+DTG,Routine VL
+P-0020,2025-04-16,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),21.0,Male,TDF+3TC+DTG,Routine VL
+P-0143,2025-04-16,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),14.0,Male,ABC+3TC+DTG,Routine VL
+P-0075,2025-04-16,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),18.0,Male,TDF+3TC+DTG,Routine VL
+P-0080,2025-04-16,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),11.0,Female,ABC+3TC+DTG,Routine VL
+P-0144,2025-04-16,525,525.0,Unsuppressed,High Level Viremia (200-999),Standard Care,Post (May 2024-Apr 2026),18.0,Female,TDF+3TC+DTG,Routine VL
+P-0094,2025-04-16,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),18.0,Female,TDF+3TC+DTG,Routine VL
+P-0127,2025-04-16,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),13.0,Male,Other,Routine VL
+P-0098,2025-04-16,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),11.0,Female,Other,Routine VL
+P-0101,2025-04-16,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),15.0,Male,Other,Routine VL
+P-0088,2025-04-16,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),12.0,Female,Other,Routine VL
+P-0110,2025-04-16,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),15.0,Male,Other,Routine VL
+P-0072,2025-04-16,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),15.0,Female,Other,Routine VL
+P-0115,2025-04-29,20893,20893.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),23.0,Female,TDF+3TC+DTG,Routine VL
+P-0079,2025-04-29,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),21.0,Male,TDF+3TC+DTG,Routine VL
+P-0071,2025-04-29,25,25.0,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),11.0,Male,ABC+3TC+DTG,Routine VL
+P-0092,2025-04-29,23,23.0,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),14.0,Male,ABC+3TC+DTG,Routine VL
+P-0123,2025-04-29,4266,4266.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),24.0,Female,TDF+3TC+DTG,Routine VL
+P-0129,2025-04-29,1202,1202.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),11.0,Male,ABC+3TC+DTG,Routine VL
+P-0066,2025-04-29,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),20.0,Female,TDF+3TC+DTG,Routine VL
+P-0025,2025-04-29,8602,8602.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),15.0,Male,Other,Routine VL
+P-0015,2025-04-29,353,353.0,Unsuppressed,High Level Viremia (200-999),Painting,Post (May 2024-Apr 2026),19.0,Male,Other,Routine VL
+P-0136,2025-05-08,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),16.0,Female,TDF+3TC+DTG,Routine VL
+P-0087,2025-05-08,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),11.0,Female,Other,Routine VL
+P-0064,2025-05-08,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),14.0,Male,TDF+3TC+DTG,Routine VL
+P-0085,2025-05-28,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),11.0,Male,Other,Routine VL
+P-0001,2025-05-14,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),15.0,Male,Other,Routine VL
+P-0012,2025-05-14,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),21.0,Female,TDF+3TC+DTG,Routine VL
+P-0027,2025-05-21,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),11.0,Female,Other,Routine VL
+P-0127,2025-05-21,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),13.0,Male,Other,Routine VL
+P-0045,2025-05-21,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),17.0,Male,Other,Routine VL
+P-0068,2025-06-18,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),21.0,Female,TDF+3TC+DTG,Routine VL
+P-0145,2025-06-18,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),24.0,Female,TDF+3TC+DTG,Routine VL
+P-0086,2025-06-18,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),21.0,Female,TDF+3TC+DTG,Routine VL
+P-0146,2025-06-18,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),18.0,Female,TDF+3TC+DTG,Routine VL
+P-0065,2025-06-18,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),20.0,Male,Other,Routine VL
+P-0014,2025-06-18,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),16.0,Male,Other,Routine VL
+P-0037,2025-06-25,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),20.0,Male,Other,Routine VL
+P-0147,2025-06-25,4417,4417.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),22.0,Female,TDF+3TC+DTG,Routine VL
+P-0053,2025-06-04,10627,10627.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),24.0,Female,TDF+3TC+DTG,Routine VL
+P-0133,2025-06-04,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),19.0,Male,TDF+3TC+DTG,Routine VL
+P-0077,2025-06-04,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),22.0,Female,TDF+3TC+DTG,Routine VL
+P-0104,2025-06-04,3190,3190.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),12.0,Male,ABC+3TC+DTG,Routine VL
+P-0043,2025-06-04,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),22.0,Female,TDF+3TC+DTG,Routine VL
+P-0009,2025-07-02,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),24.0,Female,TDF+3TC+DTG,Routine VL
+P-0082,2025-07-02,20,20.0,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),12.0,Male,ABC+3TC+DTG,Routine VL
+P-0063,2025-07-02,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),21.0,Male,TDF+3TC+DTG,Routine VL
+P-0010,2025-07-02,400,400.0,Unsuppressed,High Level Viremia (200-999),Standard Care,Post (May 2024-Apr 2026),14.0,Female,ABC+3TC+DTG,Routine VL
+P-0075,2025-07-02,32,32.0,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),19.0,Male,TDF+3TC+DTG,Routine VL
+P-0040,2025-07-09,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),19.0,Female,TDF+3TC+DTG,Routine VL
+P-0148,2025-07-09,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),12.0,Female,Other,Routine VL
+P-0034,2025-07-30,44,44.0,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),13.0,Male,ABC+3TC+DTG,Routine VL
+P-0091,2025-10-07,"105,000",105000.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),13.0,Female,ABC+3TC+DTG,Follow up
+P-0046,2025-11-05,80,80.0,Suppressed,Low Level Viremia (50-199),Standard Care,Post (May 2024-Apr 2026),18.0,Female,Other,Follow up
+P-0122,2025-11-05,200,200.0,Unsuppressed,High Level Viremia (200-999),Standard Care,Post (May 2024-Apr 2026),23.0,Male,TDF+3TC+DTG,Follow up
+P-0149,2025-11-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),10.0,Male,ABC+3TC+DTG,Follow up
+P-0070,2025-11-26,88400,88400.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),20.0,Male,TDF+3TC+DTG,Follow up
+P-0001,2025-11-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),16.0,Male,Other,Follow up
+P-0033,2025-11-26,425000,425000.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),19.0,Male,TDF+3TC+DTG,Follow up
+P-0150,2025-11-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),23.0,Male,TDF+3TC+DTG,Follow up
+P-0098,2025-11-26,33300,33300.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),11.0,Female,Other,Follow up
+P-0071,2025-12-03,29,29.0,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),12.0,Male,ABC+3TC+DTG,Follow up
+P-0135,2025-12-03,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),23.0,Female,TDF+3TC+DTG,Follow up
+P-0092,2025-12-03,29,29.0,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),15.0,Male,ABC+3TC+DTG,Follow up
+P-0113,2025-12-03,63,63.0,Suppressed,Low Level Viremia (50-199),Standard Care,Post (May 2024-Apr 2026),14.0,Female,Other,Follow up
+P-0037,2025-12-03,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),20.0,Male,Other,Follow up
+P-0108,2025-12-03,78,78.0,Suppressed,Low Level Viremia (50-199),Standard Care,Post (May 2024-Apr 2026),16.0,Male,TDF+3TC+DTG,Follow up
+P-0110,2025-12-03,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),15.0,Male,Other,Follow up
+P-0120,2025-12-03,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),13.0,Female,Other,Follow up
+P-0097,2025-12-03,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),16.0,Male,TDF+3TC+DTG,Follow up
+P-0057,2025-12-03,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),12.0,Female,ABC+3TC+DTG,Follow up
+P-0089,2025-12-03,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),13.0,Male,ABC+3TC+DTG,Follow up
+P-0085,2025-12-03,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),12.0,Male,Other,Follow up
+P-0151,2026-01-26,163000,163000.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),20.0,Female,TDF+3TC+DTG,Follow up
+P-0010,2026-01-26,406000,406000.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),14.0,Female,ABC+3TC+DTG,Follow up
+P-0101,2026-01-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),16.0,Male,Other,Follow up
+P-0064,2026-01-26,49700,49700.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),15.0,Male,TDF+3TC+DTG,Follow up
+P-0152,2026-01-26,55200,55200.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),22.0,Female,TDF+3TC+DTG,Follow up
+P-0040,2026-01-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),19.0,Female,TDF+3TC+DTG,Follow up
+P-0153,2026-01-26,903000,903000.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),23.0,Female,TDF+3TC+DTG,Follow up
+P-0154,2026-01-26,21,21.0,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),19.0,Female,ABC+3TC+LPV/r,Follow up
+P-0079,2026-02-03,26,26.0,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),22.0,Male,TDF+3TC+DTG,Follow up
+P-0125,2026-02-03,14800,14800.0,Unsuppressed,Treatment Failure (1000+),Painting,Post (May 2024-Apr 2026),16.0,Female,Other,Follow up
+P-0015,2026-02-03,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),20.0,Male,Other,Follow up
+P-0155,2026-02-03,189,189.0,Suppressed,Low Level Viremia (50-199),Standard Care,Post (May 2024-Apr 2026),10.0,Female,ABC+3TC+DTG,Follow up
+P-0109,2026-02-03,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),17.0,Male,TDF+3TC+DTG,Follow up
+P-0096,2026-02-03,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),12.0,Male,ABC+3TC+DTG,Follow up
+P-0075,2026-01-13,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),19.0,Male,TDF+3TC+DTG,Follow up
+P-0106,2026-01-07,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),19.0,Female,Other,Follow up
+P-0156,2026-02-12,6026,6026.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),23.0,Female,TDF+3TC+DTG,PMTCT KP
+P-0094,2025-12-02,3020,3020.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),19.0,Female,TDF+3TC+DTG,Follow up
+P-0066,2026-02-12,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),21.0,Female,TDF+3TC+DTG,Follow up
+P-0157,2026-02-25,32,32.0,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),12.0,Male,ABC+3TC+DTG,Follow up
+P-0119,2026-02-25,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),22.0,Female,TDF+3TC+DTG,Follow up
+P-0054,2026-02-25,37154,37154.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),17.0,Male,TDF+3TC+DTG,Follow up
+P-0158,2026-02-25,24,24.0,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),20.0,Female,TDF+3TC+DTG,Follow up
+P-0134,2026-02-25,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),24.0,Female,TDF+3TC+DTG,Follow up
+P-0077,2026-02-25,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),23.0,Female,TDF+3TC+DTG,Follow up
+P-0081,2025-10-07,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),14.0,Female,Other,Follow up
+P-0069,2025-10-07,"15,300",15300.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),24.0,Male,TDF+3TC+DTG,Follow up
+P-0100,2025-10-07,< 40 Copies/ mL,40.0,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),21.0,Female,TDF+3TC+DTG,PMTCT KP
+P-0042,2025-10-07,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),16.0,Female,Other,Follow up
+P-0159,2025-11-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),23.0,Female,TDF+3TC+DTG,Follow up
+P-0160,2026-03-24,219,219.0,Unsuppressed,High Level Viremia (200-999),Standard Care,Post (May 2024-Apr 2026),21.0,Female,TDF+3TC+DTG,PMTCT NP
+P-0161,2026-03-26,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),19.0,Female,TDF+3TC+DTG,Follow up
+P-0162,2026-03-26,12400,12400.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),18.0,Male,Other,PMTCT NP
+P-0163,2026-03-26,324,324.0,Unsuppressed,High Level Viremia (200-999),Standard Care,Post (May 2024-Apr 2026),16.0,Female,Other,PMTCT NP
+P-0068,2026-03-24,22,22.0,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),22.0,Female,TDF+3TC+DTG,Follow up
+P-0038,2026-04-02,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),17.0,Male,TDF+3TC+DTG,Follow up
+P-0080,2026-04-01,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),12.0,Female,ABC+3TC+DTG,Follow up
+P-0025,2026-03-30,1585,1585.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),16.0,Male,Other,Follow up
+P-0164,2026-03-30,129,129.0,Suppressed,Low Level Viremia (50-199),Standard Care,Post (May 2024-Apr 2026),15.0,Female,Other,Follow up
+P-0062,2026-03-30,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),21.0,Male,TDF+3TC+DTG,Follow up
+P-0165,2026-04-08,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),24.0,Female,TDF+3TC+DTG,1ST VL
+P-0042,2026-04-08,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),16.0,Female,Other,Follow up
+P-0022,2026-04-13,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),14.0,Male,TDF+3TC+DTG,Follow up
+P-0107,2026-04-09,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),22.0,Male,TDF+3TC+DTG,Follow up
+P-0142,2026-04-09,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),24.0,Female,TDF+3TC+DTG,Follow up
+P-0037,2026-04-20,1990,1990.0,Unsuppressed,Treatment Failure (1000+),Standard Care,Post (May 2024-Apr 2026),20.0,Male,Other,Follow up
+P-0088,2026-04-15,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),13.0,Female,Other,Follow up
+P-0133,2026-04-17,217,217.0,Unsuppressed,High Level Viremia (200-999),Standard Care,Post (May 2024-Apr 2026),20.0,Male,TDF+3TC+DTG,Follow up
+P-0103,2026-04-21,113,113.0,Suppressed,Low Level Viremia (50-199),Standard Care,Post (May 2024-Apr 2026),15.0,Female,Other,Follow up
+P-0166,2026-04-16,65,65.0,Suppressed,Low Level Viremia (50-199),Standard Care,Post (May 2024-Apr 2026),24.0,Female,TDF+3TC+DTG,Follow up
+P-0019,2026-04-25,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),13.0,Female,Other,Follow up
+P-0132,2026-04-25,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),11.0,Female,Other,Follow up
+P-0130,2026-04-25,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),17.0,Male,Other,Follow up
+P-0131,2026-04-25,26,26.0,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),14.0,Female,TDF+3TC+DTG,Follow up
+P-0071,2026-04-25,< LDL copies/ml,,Suppressed,Suppressed (LDL),Painting,Post (May 2024-Apr 2026),12.0,Male,ABC+3TC+DTG,Follow up
+P-0167,2026-04-25,34,34.0,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),10.0,Male,ABC+3TC+DTG,Follow up
+P-0007,2026-04-23,< LDL copies/ml,,Suppressed,Suppressed (LDL),Standard Care,Post (May 2024-Apr 2026),15.0,Male,TDF+3TC+DTG,Follow up

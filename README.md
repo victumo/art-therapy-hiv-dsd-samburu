@@ -11,7 +11,7 @@
 ## 📊 At a Glance
 
 | Metric | 🎨 Painting Cohort | 🏥 Standard Care |
-|--------|:---:|:---:|:---:|
+|--------|:---:|:---:|
 | **Established in Care** | **77.8%** | 46.2% |
 | **Viral Suppression (<200)** | **89.5%** | 73.6% |
 | **Retention (visit ≤6mo)** | **100.0%** | 98.1% |

@@ -6,8 +6,8 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![IAS 2026](https://img.shields.io/badge/IAS_HIV_Conference-2026_Rio-red.svg)](https://www.iasociety.org/)
 
-**Author:** Victor Cheptumo — Biomedical Scientist & Community Health Data Analyst, Samburu County, Kenya  
-**Presented at:** IAS HIV Conference 2026, Rio de Janeiro  
+**Author:** Victor Cheptumo — Biomedical Scientist | Community Volunteer | Health Data Analyst, Samburu County, Kenya  
+
 
 ---
 
@@ -23,13 +23,29 @@
 
 ---
 
-## 🧬 The Question
+## 📖 The Story Behind This Project
 
-> *"Can monthly community painting sessions — a low-cost, creative, peer-supported intervention — improve HIV treatment outcomes for adolescents and young people compared to standard care alone?"*
+In May 2024, I was working as a medical lab technologist at Samburu County Referral Hospital (SCRH), collecting viral load samples from kids living with HIV. Many would get excited and want to touch my computer. Some days, 5 of them would be using it during Friday clinics. I'd opened them a **student account** — no risk to my data!
+
+This curiosity led me to start teaching them basic computer skills. These kids are from **marginalised areas in northern Kenya** with limited access to devices, tech, and infrastructure. I'd pool computers from clinic service points and we'd learn on **Saturdays** — a relaxed, no-pressure environment.
+
+These Saturday workshops became more than just computer classes. **The kids would take their medications, get their lab samples collected, and then paint.** In a region where **HIV stigma is high** and walking into a clinic during busy days can expose adolescents to gossip and discrimination, these quiet Saturday sessions offered a safe space.
+
+We outgrew the space, **collaborated with Painting for an Education**, and introduced art painting — which the kids loved. **Painting helps them relax and express themselves in ways they don't usually talk about.** We now do monthly remote sessions with artists.
+
+Today, **27 AYP** have attended 3 or more painting sessions since May 2024.
+
+In early 2025, the **global USAID funding freeze** hit. Clinics were disrupted everywhere — reagent stock-outs, supply chain breakdowns, staff layoffs. I was among the healthcare workers who lost their jobs. **My 7-year career ended overnight.** But I kept showing up. Every last Saturday, I'm still there with the kids — **now as a volunteer** — because these painting sessions have become bigger than any one of us.
+
+---
+
+## 🧬 The Research Question
+
+> *"Can monthly community painting sessions — a low-cost, creative, peer-supported intervention — improve HIV treatment outcomes (viral suppression, establishment in care, retention) for adolescents and young people compared to standard care alone?"*
 
 Adolescents and Young People (AYP, 10–24) have the **lowest viral suppression rates** of any age group in Kenya. Stigma, mental health struggles, and treatment fatigue drive poor outcomes. Standard clinical care rarely addresses psychosocial needs.
 
-In May 2024, we started monthly Saturday painting sessions at Samburu County Referral Hospital. Kids take their medication, get lab samples collected, and then paint — in a relaxed, stigma-free environment. This repo contains the first quantitative analysis of whether it works.
+This repo contains the first quantitative analysis of whether a creative, community-led Saturday program can change that.
 
 ---
 
@@ -145,17 +161,12 @@ This was a pilot with 26 participants. The evidence is directional, not definiti
 
 ## 👤 About the Author
 
-**Victor Cheptumo** is a Biomedical Scientist and Community Health Data Analyst at Samburu County Referral Hospital in northern Kenya. He runs the hospital's viral load testing program and founded the Saturday painting initiative that grew from teaching kids basic computer skills into a community-led DSD intervention.
+**Victor Cheptumo** is a Biomedical Scientist and Health Data Analyst from Samburu County, Kenya. For 7 years, he ran the viral load testing program at Samburu County Referral Hospital. When the 2025 USAID funding freeze ended his career overnight, he chose to stay — now as a **community volunteer** — because the Saturday painting initiative he founded had grown bigger than any job title. He continues to show up every last Saturday for the kids, combining his lab expertise with data analytics to build the evidence base for creative, community-led DSD models.
 
-- 📧 GitHub: [@victumo](https://github.com/victumo)
-- 🏥 Samburu County Referral Hospital, Maralal (MFL 15126)
-
+📧 GitHub: [@victumo](https://github.com/victumo)
 ---
 
 ## 📄 License
 
 MIT — see [LICENSE](LICENSE) file.
 
----
-
-> *"This isn't about computers anymore. It's about proving that creative, community-led interventions can keep adolescents in care — even when the system fails."*

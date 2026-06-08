@@ -16,8 +16,8 @@ __pycache__/
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
-# VS Code workspace settings (optional)
-# .vscode/
+# VS Code workspace settings (can cause conflicts)
+.vscode/
 
 # OS files
 .DS_Store

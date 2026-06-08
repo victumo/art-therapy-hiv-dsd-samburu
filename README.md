@@ -2,9 +2,6 @@
 
 ### A Differentiated Service Delivery (DSD) Model for AYP in Samburu, Kenya
 
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![IAS 2026](https://img.shields.io/badge/IAS_HIV_Conference-2026_Rio-red.svg)](https://www.iasociety.org/)
 
 **Author:** Victor Cheptumo — Biomedical Scientist | Community Volunteer | Health Data Analyst, Samburu County, Kenya  
 
@@ -13,11 +10,11 @@
 
 ## 📊 At a Glance
 
-| Metric | 🎨 Painting Cohort | 🏥 Standard Care | Difference |
+| Metric | 🎨 Painting Cohort | 🏥 Standard Care 
 |--------|:---:|:---:|:---:|
-| **Established in Care** | **77.8%** | 46.2% | **+31.6 pp** |
-| **Viral Suppression (<200)** | **89.5%** | 73.6% | **+15.9 pp** |
-| **Retention (visit ≤6mo)** | **100.0%** | 98.1% | +1.9 pp |
+| **Established in Care** | **77.8%** | 46.2% 
+| **Viral Suppression (<200)** | **89.5%** | 73.6% 
+| **Retention (visit ≤6mo)** | **100.0%** | 98.1% 
 
 > 167 AYP (10–24 years) | May 2023 – June 2026 | Samburu County Referral Hospital (MFL 15126)
 
@@ -45,60 +42,6 @@ In early 2025, the **global USAID funding freeze** hit. Clinics were disrupted e
 
 Adolescents and Young People (AYP, 10–24) have the **lowest viral suppression rates** of any age group in Kenya. Stigma, mental health struggles, and treatment fatigue drive poor outcomes. Standard clinical care rarely addresses psychosocial needs.
 
-This repo contains the first quantitative analysis of whether a creative, community-led Saturday program can change that.
-
----
-
-## 📁 Repository Structure
-
-```
-art-therapy-hiv-dsd-samburu/
-│
-├── README.md                          ← You are here
-├── .gitignore                         ← Raw patient data excluded
-│
-├── networks/
-│   └── samburu_art_therapy_dsd_model.ipynb   ← Full analysis notebook
-│
-├── slides/
-│   ├── chart1_suppression_trends.png          ← Quarterly trends (line chart)
-│   ├── chart2_pre_post_comparison.png         ← Before/after intervention
-│   ├── chart3_clinical_outcomes_dashboard.png ← Establishment, suppression, retention
-│   └── chart4_vl_detailed_breakdown.png      ← Detailed VL categories
-│
-├── data/
-│   └── processed/                     ← Anonymised CSVs (P-0001 IDs, no PII)
-│       ├── samburu_dsd_anonymised_vl_data.csv
-│       ├── samburu_dsd_latest_vl_per_patient.csv
-│       └── samburu_dsd_linelist_summary.csv
-│
-└── scripts/                           ← Exploration & cohort analysis scripts
-    ├── explore_data.py
-    ├── cohort_analysis.py
-    └── ...
-```
-
-> 🔒 **Raw patient data is NOT published.** Names, CCC numbers, DOBs, and facility identifiers are excluded. The `data/raw/` directory is gitignored.
-
----
-
-## 🚀 Quick Start
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/victumo/art-therapy-hiv-dsd-samburu.git
-cd art-therapy-hiv-dsd-samburu
-
-# 2. Install dependencies
-pip install pandas numpy matplotlib seaborn scipy openpyxl xlrd
-
-# 3. Open the notebook
-jupyter notebook networks/samburu_art_therapy_dsd_model.ipynb
-```
-
-> ⚠️ The notebook will look for raw data in `data/raw/` — you'll need access to the source files (not public). The processed anonymised CSVs in `data/processed/` are included and can be used directly.
-
----
 
 ## 📈 Key Findings
 
@@ -166,7 +109,5 @@ This was a pilot with 26 participants. The evidence is directional, not definiti
 📧 GitHub: [@victumo](https://github.com/victumo)
 Email: victumo@gmail.com
 
-## 📄 License
 
-MIT — see [LICENSE](LICENSE) file.
 
